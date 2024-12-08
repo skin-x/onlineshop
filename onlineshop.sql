@@ -1,17 +1,3 @@
-/*
-Navicat MySQL Data Transfer
-
-Source Server         : 127.0.0.1
-Source Server Version : 80017
-Source Host           : 127.0.0.1:3306
-Source Database       : onlineshop
-
-Target Server Type    : MYSQL
-Target Server Version : 80017
-File Encoding         : 65001
-
-Date: 2021-06-10 22:08:44
-*/
 
 SET FOREIGN_KEY_CHECKS=0;
 
